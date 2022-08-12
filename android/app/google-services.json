@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "949903009295",
+    "project_id": "ogasuserapp",
+    "storage_bucket": "ogasuserapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949903009295:android:c278cc0887b57409e7a57a",
+        "android_client_info": {
+          "package_name": "com.example.ogas_full_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949903009295-82dbalcbbv58na2lnghen9rit7ahgo3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0l6QiWOjdxDy-EbYRY_KpCm4jnsJa-Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949903009295-82dbalcbbv58na2lnghen9rit7ahgo3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949903009295-f52qni7gcehsrilp8g8631rh6gde50ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ogasFullApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
